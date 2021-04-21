@@ -1,0 +1,13 @@
+How to build: 
+
+Option 1: Use the executable found at (path to downloaded folder)\ScottHowardNintendoSolution\ScottHowardNintendoSolution\bin\Debug\netcoreapp3.1\ScottHowardNintendoSolution to run the program.
+Option 2: Open the solution with Visual Studio and build from source.
+
+How to use:
+
+The program will prompt you to enter the file paths for each file which you would like to use. If you have files prepared for use, enter those file paths, otherwise you may use the following paths: 
+
+1. (path to downloaded folder)\ScottHowardNintendoSolution\ScottHowardNintendoSolution\New.sha1.txt
+2. (path to downloaded folder)\ScottHowardNintendoSolution\ScottHowardNintendoSolution\Old.sha1.txt
+
+The program will then prompt you to give a destination such as "C:\Users\Documents\". If this is left blank, the new files will be written to the directory of the executable for the program.
