@@ -1,4 +1,4 @@
-# ScottHowardNintendoSolution
+# Scott Howard Nintendo Solution
 
 ## How to build: 
 
